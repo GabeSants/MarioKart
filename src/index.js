@@ -56,7 +56,7 @@ async function playRaceEngine(character1, character2) {
     let diceResult1 = await rollDice();
     let diceResult2 = await rollDice();
 
-    //teste de habilidade
+    // teste de habilidade
     let totalTestSkill1 = 0;
     let totalTestSkill2 = 0;
 
